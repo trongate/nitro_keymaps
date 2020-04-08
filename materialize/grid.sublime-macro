@@ -1,0 +1,186 @@
+[
+    {
+        "args": {
+            "characters": "<!-- Materialize grid example (more examples to be found at https:\/\/materializecss.com\/grid.html) -->\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": ""
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<div class=\"row\">\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<div class=\"col s12\">This div is 12-columns wide on all screen sizes<\/div>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<div class=\"col s6\">6-columns (one-half)<\/div>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<div class=\"col s6\">6-columns (one-half)<\/div>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": null,
+        "command": "left_delete"
+    },
+    {
+        "args": {
+            "characters": "<\/div>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": ""
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<div class=\"row\">\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<div class=\"col s1\">1<\/div>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<div class=\"col s1\">2<\/div>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<div class=\"col s1\">3<\/div>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<div class=\"col s1\">4<\/div>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<div class=\"col s1\">5<\/div>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<div class=\"col s1\">6<\/div>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<div class=\"col s1\">7<\/div>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<div class=\"col s1\">8<\/div>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<div class=\"col s1\">9<\/div>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<div class=\"col s1\">10<\/div>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<div class=\"col s1\">11<\/div>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<div class=\"col s1\">12<\/div>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": null,
+        "command": "left_delete"
+    },
+    {
+        "args": {
+            "characters": "<\/div>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": ""
+        },
+        "command": "insert"
+    },
+    {
+        "args": null,
+        "command": "left_delete"
+    },
+    {
+        "args": {
+            "characters": "\n\n<!-- offsets -->\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<div class=\"row\">\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<div class=\"col s12\"><span class=\"flow-text\">This div is 12-columns wide on all screen sizes<\/span><\/div>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<div class=\"col s6 offset-s6\"><span class=\"flow-text\">6-columns (offset-by-6)<\/span><\/div>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": null,
+        "command": "left_delete"
+    },
+    {
+        "args": {
+            "characters": "<\/div>"
+        },
+        "command": "insert"
+    }
+]

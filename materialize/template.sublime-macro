@@ -1,0 +1,162 @@
+[
+    {
+        "args": {
+            "characters": "<!-- Materialize basic template -->\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<!DOCTYPE html>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<html lang=\"en\">\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<head>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<meta charset=\"UTF-8\">\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<title>Document<\/title>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<!-- Compiled and minified CSS -->\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<link rel=\"stylesheet\" href=\"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/materialize\/1.0.0\/css\/materialize.min.css\">\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<!-- Compiled and minified JavaScript -->\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<script src=\"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/materialize\/1.0.0\/js\/materialize.min.js\"><\/script>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<!--Let browser know website is optimized for mobile-->\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\"\/>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": null,
+        "command": "left_delete"
+    },
+    {
+        "args": {
+            "characters": "<\/head>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<body>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<div class=\"container\">\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<div class=\"section\">\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<h2 class=\"center light-blue-text\">Materialize<\/h2>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<p class=\"center\">We are living in a Materialize world and I am a Materialize girl.<\/p>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": null,
+        "command": "left_delete"
+    },
+    {
+        "args": {
+            "characters": "<\/div>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": null,
+        "command": "left_delete"
+    },
+    {
+        "args": {
+            "characters": "<\/div>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<!--JavaScript at end of body for optimized loading-->\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<script type=\"text\/javascript\" src=\"js\/materialize.min.js\"><\/script>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": null,
+        "command": "left_delete"
+    },
+    {
+        "args": {
+            "characters": "<\/body>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<\/html>"
+        },
+        "command": "insert"
+    }
+]

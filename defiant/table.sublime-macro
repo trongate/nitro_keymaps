@@ -1,0 +1,216 @@
+[
+    {
+        "args": {
+            "characters": "<!-- Defiant CSS table - more examples at; https:\/\/defiantcss.com\/components\/display\/tables -->\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<table class=\"table\">\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<thead>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<tr>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<th>Item Name<\/th>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<th>Inventory<\/th>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<th>Item Price<\/th>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<th>Action<\/th>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": null,
+        "command": "left_delete"
+    },
+    {
+        "args": {
+            "characters": "<\/tr>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": null,
+        "command": "left_delete"
+    },
+    {
+        "args": {
+            "characters": "<\/thead>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<tbody>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<tr>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<td data-label=\"Item Name\">Fender Squier Affinity Telecaster<\/td>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<td data-label=\"Inventory\">9<\/td>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<td data-label=\"Item Price\">\u00a3187.00<\/td>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<td data-label=\"Action\"><button class=\"btn btn-danger\">View<\/button><\/td>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": null,
+        "command": "left_delete"
+    },
+    {
+        "args": {
+            "characters": "<\/tr>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<tr>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<td data-label=\"Item Name\">Fender Dreadnought Cutaway<\/td>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<td data-label=\"Inventory\">3<\/td>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<td data-label=\"Item Price\">\u00a3109.00<\/td>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<td data-label=\"Action\"><button class=\"btn\">View<\/button><\/td>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": null,
+        "command": "left_delete"
+    },
+    {
+        "args": {
+            "characters": "<\/tr>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<tr>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<td data-label=\"Item Name\">Oypla ST<\/td>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<td data-label=\"Inventory\">23<\/td>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<td data-label=\"Item Price\">\u00a361.99<\/td>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<td data-label=\"Action\"><button class=\"btn btn-info\">View<\/button><\/td>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": null,
+        "command": "left_delete"
+    },
+    {
+        "args": {
+            "characters": "<\/tr>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": null,
+        "command": "left_delete"
+    },
+    {
+        "args": {
+            "characters": "<\/tbody>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": null,
+        "command": "left_delete"
+    },
+    {
+        "args": {
+            "characters": "<\/table>"
+        },
+        "command": "insert"
+    }
+]

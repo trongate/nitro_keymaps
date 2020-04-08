@@ -1,0 +1,140 @@
+[
+    {
+        "args": {
+            "characters": "<!-- Milligram contact us form -->\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<form>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<h1>Contact Us<\/h1>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<p>Please fill out the form below and then hit 'Submit'<\/p>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<fieldset>"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "\n<label>Name<\/label>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<input type=\"text\" name=\"your_name\" placeholder=\"Enter your name here\">\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "\n<label>Email Address<\/label>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<input type=\"email\" name=\"email\" placeholder=\"Enter your contact email address here\">\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "\n<label>Telephone Number<\/label>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<input type=\"text\" name=\"telnum\" placeholder=\"Enter your contact telephone number here\">\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "\n<label>Message<\/label>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<textarea placeholder=\"Enter your message here...\" name=\"message\"><\/textarea>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "\n<div class=\"float-right\">\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<input type=\"checkbox\" id=\"confirmField\">\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<label class=\"label-inline\" for=\"confirmField\">Send a copy to yourself<\/label>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": null,
+        "command": "left_delete"
+    },
+    {
+        "args": {
+            "characters": "<\/div>\n\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<input class=\"button-primary\" type=\"submit\" value=\"Send\">\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<input class=\"button-outline\" type=\"submit\" value=\"Cancel\">\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": null,
+        "command": "left_delete"
+    },
+    {
+        "args": {
+            "characters": "<\/fieldset>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": null,
+        "command": "left_delete"
+    },
+    {
+        "args": {
+            "characters": "<\/form>"
+        },
+        "command": "insert"
+    }
+]

@@ -1,0 +1,136 @@
+[
+    {
+        "args": {
+            "characters": "<!-- Materialize table example (yes, it IS virtually the same as skeleton) -->\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<table>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<thead>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<tr>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<th>Name<\/th>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<th>Age<\/th>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<th>Sex<\/th>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<th>Location<\/th>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": null,
+        "command": "left_delete"
+    },
+    {
+        "args": {
+            "characters": "<\/tr>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": null,
+        "command": "left_delete"
+    },
+    {
+        "args": {
+            "characters": "<\/thead>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<tbody>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<tr>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<td>David Gamache<\/td>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<td>26<\/td>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<td>male<\/td>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<td>San Francisco<\/td>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": null,
+        "command": "left_delete"
+    },
+    {
+        "args": {
+            "characters": "<\/tr>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": null,
+        "command": "left_delete"
+    },
+    {
+        "args": {
+            "characters": "<\/tbody>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": null,
+        "command": "left_delete"
+    },
+    {
+        "args": {
+            "characters": "<\/table>"
+        },
+        "command": "insert"
+    }
+]

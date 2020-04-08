@@ -1,0 +1,178 @@
+[
+    {
+        "args": {
+            "characters": "<!-- Bootstrap-4 Button trigger modal -->\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<button type=\"button\" class=\"btn btn-primary\" data-toggle=\"modal\" data-target=\"#exampleModal\">\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "Launch demo modal\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": null,
+        "command": "left_delete"
+    },
+    {
+        "args": {
+            "characters": "<\/button>\n\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<!-- Modal -->\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<div class=\"modal fade\" id=\"exampleModal\" tabindex=\"-1\" role=\"dialog\" aria-labelledby=\"exampleModalLabel\" aria-hidden=\"true\">\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<div class=\"modal-dialog\" role=\"document\">\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<div class=\"modal-content\">\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<div class=\"modal-header\">\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<h5 class=\"modal-title\" id=\"exampleModalLabel\">Modal title<\/h5>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<button type=\"button\" class=\"close\" data-dismiss=\"modal\" aria-label=\"Close\">\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<span aria-hidden=\"true\">&times;<\/span>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": null,
+        "command": "left_delete"
+    },
+    {
+        "args": {
+            "characters": "<\/button>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": null,
+        "command": "left_delete"
+    },
+    {
+        "args": {
+            "characters": "<\/div>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<div class=\"modal-body\">\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "...\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": null,
+        "command": "left_delete"
+    },
+    {
+        "args": {
+            "characters": "<\/div>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<div class=\"modal-footer\">\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<button type=\"button\" class=\"btn btn-secondary\" data-dismiss=\"modal\">Close<\/button>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<button type=\"button\" class=\"btn btn-primary\">Save changes<\/button>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": null,
+        "command": "left_delete"
+    },
+    {
+        "args": {
+            "characters": "<\/div>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": null,
+        "command": "left_delete"
+    },
+    {
+        "args": {
+            "characters": "<\/div>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": null,
+        "command": "left_delete"
+    },
+    {
+        "args": {
+            "characters": "<\/div>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": null,
+        "command": "left_delete"
+    },
+    {
+        "args": {
+            "characters": "<\/div>"
+        },
+        "command": "insert"
+    }
+]

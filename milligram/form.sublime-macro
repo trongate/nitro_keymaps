@@ -1,0 +1,138 @@
+[
+    {
+        "args": {
+            "characters": "<form>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<fieldset>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<label for=\"nameField\">Name<\/label>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<input type=\"text\" placeholder=\"CJ Patoilo\" id=\"nameField\">\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "\n<label for=\"ageRangeField\">Age Range<\/label>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<select id=\"ageRangeField\">\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<option value=\"0-13\">0-13<\/option>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<option value=\"14-17\">14-17<\/option>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<option value=\"18-23\">18-23<\/option>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<option value=\"24+\">24+<\/option>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": null,
+        "command": "left_delete"
+    },
+    {
+        "args": {
+            "characters": "<\/select>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "\n<label for=\"commentField\">Comment<\/label>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<textarea placeholder=\"Hi CJ \u2026\" id=\"commentField\"><\/textarea>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<div class=\"float-right\">\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<input type=\"checkbox\" id=\"confirmField\">\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "\n<label class=\"label-inline\" for=\"confirmField\">Send a copy to yourself<\/label>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": null,
+        "command": "left_delete"
+    },
+    {
+        "args": {
+            "characters": "<\/div>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "\n<input class=\"button-primary\" type=\"submit\" value=\"Send\">\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": null,
+        "command": "left_delete"
+    },
+    {
+        "args": {
+            "characters": "<\/fieldset>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": null,
+        "command": "left_delete"
+    },
+    {
+        "args": {
+            "characters": "<\/form>"
+        },
+        "command": "insert"
+    }
+]

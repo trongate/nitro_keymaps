@@ -1,0 +1,130 @@
+[
+    {
+        "args": {
+            "characters": "<form>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<div class=\"form-group\">\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<label>Your Name<\/label>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<input type=\"text\" name=\"your_name\" class=\"form-control\" placeholder=\"Enter your name here\">\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": null,
+        "command": "left_delete"
+    },
+    {
+        "args": {
+            "characters": "<\/div>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<div class=\"form-group\">\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<label>Email address<\/label>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<input type=\"email\" name=\"email\" class=\"form-control\" placeholder=\"Enter your contact email address here\">\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": null,
+        "command": "left_delete"
+    },
+    {
+        "args": {
+            "characters": "<\/div>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<div class=\"form-group\">\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<label>Your Message<\/label>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<textarea name=\"message\" class=\"form-control\" rows=\"3\" placeholder=\"Enter your message here...\"><\/textarea>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": null,
+        "command": "left_delete"
+    },
+    {
+        "args": {
+            "characters": "<\/div>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<div class=\"form-group\">\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<button type=\"submit\" value=\"Submit\" class=\"btn btn-primary\">Submit<\/button>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<button type=\"submit\" value=\"Cancel\" class=\"btn btn-outline\">Cancel<\/button>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": null,
+        "command": "left_delete"
+    },
+    {
+        "args": {
+            "characters": "<\/div>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": null,
+        "command": "left_delete"
+    },
+    {
+        "args": {
+            "characters": "<\/form>"
+        },
+        "command": "insert"
+    }
+]

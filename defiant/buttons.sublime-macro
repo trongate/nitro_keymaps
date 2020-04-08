@@ -1,0 +1,78 @@
+[
+    {
+        "args": {
+            "characters": "<!-- Defiant CSS standard buttons -->\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<a href=\"#\" class=\"btn\">Anchor Button<\/a>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<button class=\"btn\">Button Element<\/button>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<input type=\"submit\" class=\"btn\" value=\"Submit Input\">\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": ""
+        },
+        "command": "insert"
+    },
+    {
+        "args": null,
+        "command": "left_delete"
+    },
+    {
+        "args": {
+            "characters": "\n\n<!-- Buttons with colors -->\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<button class=\"btn btn-primary\">btn-primary<\/button>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<button class=\"btn btn-secondary\">btn-secondary<\/button>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<button class=\"btn btn-success\">btn-success<\/button>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<button class=\"btn btn-danger\">btn-danger<\/button>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<button class=\"btn btn-warning\">btn-warning<\/button>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<button class=\"btn btn-info\">btn-info<\/button>"
+        },
+        "command": "insert"
+    }
+]

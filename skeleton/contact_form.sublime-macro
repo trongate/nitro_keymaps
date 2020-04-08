@@ -1,0 +1,144 @@
+[
+  {
+    "args": {
+      "characters": "<!-- SkeletonCSS contact us form -->\n"
+    },
+    "command": "insert"
+  },
+  {
+    "args": {
+      "characters": "<div class=\"container\">\n"
+    },
+    "command": "insert"
+  },
+  {
+    "args": {
+      "characters": "<form action=\"<?= $form_location ?>\" method=\"post\">\n"
+    },
+    "command": "insert"
+  },
+  {
+    "args": {
+      "characters": "<div class=\"row\">\n"
+    },
+    "command": "insert"
+  },
+  {
+    "args": {
+      "characters": "<div class=\"six columns\">\n"
+    },
+    "command": "insert"
+  },
+  {
+    "args": {
+      "characters": "<h1>Contact Us</h1>\n"
+    },
+    "command": "insert"
+  },
+  {
+    "args": {
+      "characters": "<p>Please fill out the form below and then hit 'Submit'</p>\n"
+    },
+    "command": "insert"
+  },
+  {
+    "args": {
+      "characters": "<label>Name</label>\n"
+    },
+    "command": "insert"
+  },
+  {
+    "args": {
+      "characters": "<input type=\"text\" value=\"<?= $your_name ?>\" class=\"u-full-width\" name=\"your_name\" placeholder=\"Enter your name here\">\n"
+    },
+    "command": "insert"
+  },
+  {
+    "args": {
+      "characters": "<label>Email Address</label>\n"
+    },
+    "command": "insert"
+  },
+  {
+    "args": {
+      "characters": "<input type=\"email\" value=\"<?= $email ?>\" class=\"u-full-width\" name=\"email\" placeholder=\"Enter your contact email address here\">\n"
+    },
+    "command": "insert"
+  },
+  {
+    "args": {
+      "characters": "<label>Telephone Number</label>\n"
+    },
+    "command": "insert"
+  },
+  {
+    "args": {
+      "characters": "<input type=\"text\" value=\"<?= $telnum ?>\" class=\"u-full-width\" name=\"telnum\" placeholder=\"Enter your contact telephone number here\">\n"
+    },
+    "command": "insert"
+  },
+  {
+    "args": {
+      "characters": "<label for=\"exampleMessage\">Message</label>\n"
+    },
+    "command": "insert"
+  },
+  {
+    "args": {
+      "characters": "<textarea class=\"u-full-width\" placeholder=\"Hi Dave …\"><?= $message ?></textarea>\n"
+    },
+    "command": "insert"
+  },
+  {
+    "args": {
+      "characters": "<input class=\"button-primary\" name=\"submit\" type=\"submit\" value=\"Submit\">\n"
+    },
+    "command": "insert"
+  },
+  {
+    "args": {
+      "characters": "<input class=\"button\" name=\"submit\" type=\"submit\" value=\"Cancel\">\n"
+    },
+    "command": "insert"
+  },
+  {
+    "args": null,
+    "command": "left_delete"
+  },
+  {
+    "args": {
+      "characters": "</div>\n"
+    },
+    "command": "insert"
+  },
+  {
+    "args": null,
+    "command": "left_delete"
+  },
+  {
+    "args": {
+      "characters": "</div>\n"
+    },
+    "command": "insert"
+  },
+  {
+    "args": null,
+    "command": "left_delete"
+  },
+  {
+    "args": {
+      "characters": "</form>\n"
+    },
+    "command": "insert"
+  },
+  {
+    "args": null,
+    "command": "left_delete"
+  },
+  {
+    "args": {
+      "characters": "</div>"
+    },
+    "command": "insert"
+  }
+]

@@ -1,0 +1,198 @@
+[
+  {
+    "args": {
+      "characters": "<!-- SkeletonCSS Sample Form -->\n"
+    },
+    "command": "insert"
+  },
+  {
+    "args": {
+      "characters": "<form>\n"
+    },
+    "command": "insert"
+  },
+  {
+    "args": {
+      "characters": "<div class=\"row\">\n"
+    },
+    "command": "insert"
+  },
+  {
+    "args": {
+      "characters": "<div class=\"six columns\">\n"
+    },
+    "command": "insert"
+  },
+  {
+    "args": {
+      "characters": "<label for=\"exampleEmailInput\">Your email</label>\n"
+    },
+    "command": "insert"
+  },
+  {
+    "args": {
+      "characters": "<input class=\"u-full-width\" type=\"email\" placeholder=\"test@mailbox.com\" id=\"exampleEmailInput\">\n"
+    },
+    "command": "insert"
+  },
+  {
+    "args": null,
+    "command": "left_delete"
+  },
+  {
+    "args": {
+      "characters": "</div>\n"
+    },
+    "command": "insert"
+  },
+  {
+    "args": {
+      "characters": "<div class=\"six columns\">\n"
+    },
+    "command": "insert"
+  },
+  {
+    "args": {
+      "characters": "<label for=\"exampleRecipientInput\">Reason for contacting</label>\n"
+    },
+    "command": "insert"
+  },
+  {
+    "args": {
+      "characters": "<select class=\"u-full-width\" id=\"exampleRecipientInput\">\n"
+    },
+    "command": "insert"
+  },
+  {
+    "args": {
+      "characters": "<option value=\"Option 1\">Questions</option>\n"
+    },
+    "command": "insert"
+  },
+  {
+    "args": {
+      "characters": "<option value=\"Option 2\">Admiration</option>\n"
+    },
+    "command": "insert"
+  },
+  {
+    "args": {
+      "characters": "<option value=\"Option 3\">Can I get your number?</option>\n"
+    },
+    "command": "insert"
+  },
+  {
+    "args": null,
+    "command": "left_delete"
+  },
+  {
+    "args": {
+      "characters": "</select>\n"
+    },
+    "command": "insert"
+  },
+  {
+    "args": null,
+    "command": "left_delete"
+  },
+  {
+    "args": {
+      "characters": "</div>\n"
+    },
+    "command": "insert"
+  },
+  {
+    "args": null,
+    "command": "left_delete"
+  },
+  {
+    "args": {
+      "characters": "</div>\n"
+    },
+    "command": "insert"
+  },
+  {
+    "args": {
+      "characters": "<label for=\"exampleMessage\">Message</label>\n"
+    },
+    "command": "insert"
+  },
+  {
+    "args": {
+      "characters": "<textarea class=\"u-full-width\" placeholder=\"Hi Dave …\" id=\"exampleMessage\"></textarea>\n"
+    },
+    "command": "insert"
+  },
+  {
+    "args": {
+      "characters": "<label class=\"example-send-yourself-copy\">\n"
+    },
+    "command": "insert"
+  },
+  {
+    "args": {
+      "characters": "<input type=\"checkbox\">\n"
+    },
+    "command": "insert"
+  },
+  {
+    "args": {
+      "characters": "<span class=\"label-body\">Send a copy to yourself</span>\n"
+    },
+    "command": "insert"
+  },
+  {
+    "args": null,
+    "command": "left_delete"
+  },
+  {
+    "args": {
+      "characters": "</label>\n"
+    },
+    "command": "insert"
+  },
+  {
+    "args": {
+      "characters": "<input class=\"button-primary\" type=\"submit\" value=\"Submit\">\n"
+    },
+    "command": "insert"
+  },
+  {
+    "args": null,
+    "command": "left_delete"
+  },
+  {
+    "args": {
+      "characters": "</form>\n"
+    },
+    "command": "insert"
+  },
+  {
+    "args": {
+      "characters": ""
+    },
+    "command": "insert"
+  },
+  {
+    "args": {
+      "characters": "<!-- Always wrap checkbox and radio inputs in a label and use a <span class=\"label-body\"> inside of it -->\n"
+    },
+    "command": "insert"
+  },
+  {
+    "args": {
+      "characters": ""
+    },
+    "command": "insert"
+  },
+  {
+    "args": null,
+    "command": "left_delete"
+  },
+  {
+    "args": {
+      "characters": "<!-- Note: The class .u-full-width is just a utility class shorthand for width: 100% -->"
+    },
+    "command": "insert"
+  }
+]

@@ -1,0 +1,232 @@
+[
+    {
+        "args": {
+            "characters": "<form>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<div class=\"form-group\">\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<label for=\"exampleFormControlInput1\">Email address<\/label>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<input type=\"email\" class=\"form-control\" id=\"exampleFormControlInput1\" placeholder=\"name@example.com\">\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": null,
+        "command": "left_delete"
+    },
+    {
+        "args": {
+            "characters": "<\/div>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<div class=\"form-group\">\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<label for=\"exampleFormControlSelect1\">Example select<\/label>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<select class=\"form-control\" id=\"exampleFormControlSelect1\">\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<option>1<\/option>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<option>2<\/option>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<option>3<\/option>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<option>4<\/option>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<option>5<\/option>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": null,
+        "command": "left_delete"
+    },
+    {
+        "args": {
+            "characters": "<\/select>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": null,
+        "command": "left_delete"
+    },
+    {
+        "args": {
+            "characters": "<\/div>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<div class=\"form-group\">\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<label for=\"exampleFormControlSelect2\">Example multiple select<\/label>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<select multiple class=\"form-control\" id=\"exampleFormControlSelect2\">\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<option>1<\/option>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<option>2<\/option>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<option>3<\/option>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<option>4<\/option>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<option>5<\/option>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": null,
+        "command": "left_delete"
+    },
+    {
+        "args": {
+            "characters": "<\/select>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": null,
+        "command": "left_delete"
+    },
+    {
+        "args": {
+            "characters": "<\/div>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<div class=\"form-group\">\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<label for=\"exampleFormControlTextarea1\">Example textarea<\/label>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<textarea class=\"form-control\" id=\"exampleFormControlTextarea1\" rows=\"3\"><\/textarea>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": null,
+        "command": "left_delete"
+    },
+    {
+        "args": {
+            "characters": "<\/div>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<div class=\"form-group\">\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<button type=\"submit\" class=\"btn btn-primary\">Submit<\/button>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": null,
+        "command": "left_delete"
+    },
+    {
+        "args": {
+            "characters": "<\/div>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": null,
+        "command": "left_delete"
+    },
+    {
+        "args": {
+            "characters": "<\/form>"
+        },
+        "command": "insert"
+    }
+]

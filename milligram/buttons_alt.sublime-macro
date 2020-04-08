@@ -1,0 +1,380 @@
+[
+    {
+        "args": {
+            "characters": "<style>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "\/* Extending The Inheritances (Milligram) *\/"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": ""
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "\n\n\/* Custom color *\/\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": ".button-black {\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "background-color: black;\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "border-color: black;\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": null,
+        "command": "left_delete"
+    },
+    {
+        "args": {
+            "characters": "}\n\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": ".button-black.button-clear,"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": ".button-black.button-outline {\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "background-color: transparent;\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "color: black;\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": null,
+        "command": "left_delete"
+    },
+    {
+        "args": {
+            "characters": "}\n\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": ".button-black.button-clear {\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "border-color: transparent;\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": null,
+        "command": "left_delete"
+    },
+    {
+        "args": {
+            "characters": "}\n\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "\/* Custom size *\/"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "\n.button-small {\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "font-size: .8rem;\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "height: 2.8rem;\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "line-height: 2.8rem;\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "padding: 0 1.5rem;\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": null,
+        "command": "left_delete"
+    },
+    {
+        "args": {
+            "characters": "}"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": ""
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "\n\n.button-large {\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "font-size: 1.4rem;\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "height: 4.5rem;\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "line-height: 4.5rem;\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "padding: 0 2rem;\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": null,
+        "command": "left_delete"
+    },
+    {
+        "args": {
+            "characters": "}\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": null,
+        "command": "left_delete"
+    },
+    {
+        "args": {
+            "characters": "<\/style>"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "\n\n<p><strong>Extending The Inheritances<\/strong><\/p>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "\n<p>The style of an element can be defined in several different locations, which interact in a complex way.  It is this form of interaction makes CSS powerful, but it can make it confusing and difficult to debug.<\/p>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "\n<div class=\"example\">\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<div class=\"row\">\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<div class=\"column\">\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<a class=\"button\" href=\"#\">Default .button<\/a>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<a class=\"button button-outline\" href=\"#\">Outlined .button<\/a>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<a class=\"button button-clear\" href=\"#\">Clear .button<\/a>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": null,
+        "command": "left_delete"
+    },
+    {
+        "characters": "</div>\n",
+        "command": "left_delete"
+    },
+    {
+        "args": {
+            "characters": "<div class=\"column\">\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<a class=\"button button-black\" href=\"#\">.button-black<\/a>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<a class=\"button button-black button-outline\" href=\"#\">.button-black<\/a>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<a class=\"button button-black button-clear\" href=\"#\">.button-black<\/a><\/div>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<div class=\"column column-20\">\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<a class=\"button button-small\" href=\"#\">.button-small<\/a>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<a class=\"button button-small button-outline\" href=\"#\">.button-small<\/a>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<a class=\"button button-small button-clear\" href=\"#\">.button-small<\/a>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": null,
+        "command": "left_delete"
+    },
+    {
+        "args": {
+            "characters": "<\/div>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<div class=\"column\">\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<a class=\"button button-large\" href=\"#\">.button-large<\/a>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<a class=\"button button-large button-outline\" href=\"#\">.button-large<\/a>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<a class=\"button button-large button-clear\" href=\"#\">.button-large<\/a>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": null,
+        "command": "left_delete"
+    },
+    {
+        "args": {
+            "characters": "<\/div>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": null,
+        "command": "left_delete"
+    },
+    {
+        "args": {
+            "characters": "<\/div>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": null,
+        "command": "left_delete"
+    },
+    {
+        "args": {
+            "characters": "<\/div>"
+        },
+        "command": "insert"
+    }
+]

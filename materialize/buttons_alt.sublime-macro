@@ -1,0 +1,172 @@
+[
+    {
+        "args": {
+            "characters": "<!-- alternative Materialize buttons (more at: https:\/\/materializecss.com\/buttons.html ) -->\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": ""
+        },
+        "command": "insert"
+    },
+    {
+        "args": null,
+        "command": "left_delete"
+    },
+    {
+        "args": {
+            "characters": "\n\n<!-- large -->\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<a class=\"waves-effect waves-light btn-large\">Button<\/a>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<a class=\"waves-effect waves-light btn-large\"><i class=\"material-icons left\">cloud<\/i>button<\/a>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<a class=\"waves-effect waves-light btn-large\"><i class=\"material-icons right\">cloud<\/i>button<\/a>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": ""
+        },
+        "command": "insert"
+    },
+    {
+        "args": null,
+        "command": "left_delete"
+    },
+    {
+        "args": {
+            "characters": "\n\n<!-- small -->\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<a class=\"waves-effect waves-light btn-small\">Button<\/a>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<a class=\"waves-effect waves-light btn-small\"><i class=\"material-icons left\">cloud<\/i>button<\/a>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<a class=\"waves-effect waves-light btn-small\"><i class=\"material-icons right\">cloud<\/i>button<\/a>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": ""
+        },
+        "command": "insert"
+    },
+    {
+        "args": null,
+        "command": "left_delete"
+    },
+    {
+        "args": {
+            "characters": "\n\n<!-- disabled -->\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<a class=\"btn-large disabled\">Button<\/a>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<a class=\"btn disabled\">Button<\/a>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<a class=\"btn-flat disabled\">Button<\/a>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<a class=\"btn-floating disabled\"><i class=\"material-icons\">add<\/i><\/a>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": ""
+        },
+        "command": "insert"
+    },
+    {
+        "args": null,
+        "command": "left_delete"
+    },
+    {
+        "args": {
+            "characters": "\n\n<!-- flat -->\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<a class=\"waves-effect waves-teal btn-flat\">Button<\/a>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": ""
+        },
+        "command": "insert"
+    },
+    {
+        "args": null,
+        "command": "left_delete"
+    },
+    {
+        "args": {
+            "characters": "\n\n<!-- raised -->\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<a class=\"waves-effect waves-light btn\">button<\/a>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<a class=\"waves-effect waves-light btn\"><i class=\"material-icons left\">cloud<\/i>button<\/a>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<a class=\"waves-effect waves-light btn\"><i class=\"material-icons right\">cloud<\/i>button<\/a>"
+        },
+        "command": "insert"
+    }
+]

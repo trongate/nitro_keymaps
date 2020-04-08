@@ -1,0 +1,216 @@
+[
+    {
+        "args": {
+            "characters": "<!-- table example using Bootstrap 4 - for more examples, visit https:\/\/getbootstrap.com\/docs\/4.0\/content\/tables\/ -->\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<table class=\"table\">\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<thead class=\"thead-dark\">\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<tr>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<th scope=\"col\">#<\/th>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<th scope=\"col\">First<\/th>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<th scope=\"col\">Last<\/th>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<th scope=\"col\">Handle<\/th>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": null,
+        "command": "left_delete"
+    },
+    {
+        "args": {
+            "characters": "<\/tr>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": null,
+        "command": "left_delete"
+    },
+    {
+        "args": {
+            "characters": "<\/thead>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<tbody>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<tr>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<th scope=\"row\">1<\/th>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<td>Mark<\/td>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<td>Otto<\/td>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<td>@mdo<\/td>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": null,
+        "command": "left_delete"
+    },
+    {
+        "args": {
+            "characters": "<\/tr>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<tr>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<th scope=\"row\">2<\/th>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<td>Jacob<\/td>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<td>Thornton<\/td>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<td>@fat<\/td>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": null,
+        "command": "left_delete"
+    },
+    {
+        "args": {
+            "characters": "<\/tr>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<tr>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<th scope=\"row\">3<\/th>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<td>Larry<\/td>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<td>the Bird<\/td>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<td>@twitter<\/td>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": null,
+        "command": "left_delete"
+    },
+    {
+        "args": {
+            "characters": "<\/tr>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": null,
+        "command": "left_delete"
+    },
+    {
+        "args": {
+            "characters": "<\/tbody>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": null,
+        "command": "left_delete"
+    },
+    {
+        "args": {
+            "characters": "<\/table>"
+        },
+        "command": "insert"
+    }
+]

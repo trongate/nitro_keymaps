@@ -1,0 +1,226 @@
+[
+    {
+        "args": {
+            "characters": "<!-- Defiant form example -->\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<form class=\"form-vertical\">\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "\n<label for=\"text_field\">Text Field<\/label>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<input type=\"text\" name=\"text_field\" id=\"text_field\" placeholder=\"Enter your name here\">\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "\n<label for=\"password\">Password Field<\/label>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<input type=\"password\" name=\"password\" id=\"password\" placeholder=\"Enter your password here\">\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": ""
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "\n<label>Radio Buttons<\/label>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<input type=\"radio\" name=\"radio_field\" id=\"hello\" value=\"hello\" checked>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "\n<label for=\"hello\">Hello<\/label>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<input type=\"radio\" name=\"radio_field\" id=\"world\" value=\"world\">\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "\n<label for=\"world\">World<\/label>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": ""
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "\n<label>Checkboxes<\/label>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<input type=\"checkbox\" name=\"check_box\" id=\"one\" value=\"1\">\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "\n<label for=\"one\">One<\/label>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<input type=\"checkbox\" name=\"check_box_2\" id=\"two\" value=\"2\">\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<label for=\"two\">Two<\/label>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": ""
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "\n<label>Select Field<\/label>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<select>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<option value=\"0\">Select Option...<\/option>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<option value=\"1\">One<\/option>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<option value=\"2\">Two<\/option>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<option value=\"3\">Three<\/option>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": null,
+        "command": "left_delete"
+    },
+    {
+        "args": {
+            "characters": "<\/select>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": ""
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "\n<label for=\"email\">Email Field<\/label>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<input type=\"email\" name=\"email\" id=\"email\" placeholder=\"Enter your email here\">\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": ""
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "\n<label for=\"textarea\">Textarea Field<\/label>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<textarea name=\"textarea\" id=\"textarea\" placeholder=\"Enter your information here\"><\/textarea>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": ""
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<input type=\"submit\" name=\"submit\" value=\"Submit Button\" class=\"btn\">\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<button class=\"btn btn-danger\">Delete Button<\/button>\n\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": null,
+        "command": "left_delete"
+    },
+    {
+        "args": {
+            "characters": "<\/form>"
+        },
+        "command": "insert"
+    }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "args": {
+      "characters": "<!-- Standard SkeletonCSS buttons -->\n"
+    },
+    "command": "insert"
+  },
+  {
+    "args": {
+      "characters": "<a class=\"button\" href=\"#\">Anchor button</a>\n"
+    },
+    "command": "insert"
+  },
+  {
+    "args": {
+      "characters": "<button>Button element</button>\n"
+    },
+    "command": "insert"
+  },
+  {
+    "args": {
+      "characters": "<input type=\"submit\" value=\"submit input\">\n"
+    },
+    "command": "insert"
+  },
+  {
+    "args": {
+      "characters": "<input type=\"button\" value=\"button input\">\n\n\n"
+    },
+    "command": "insert"
+  },
+  {
+    "args": {
+      "characters": ""
+    },
+    "command": "insert"
+  },
+  {
+    "args": null,
+    "command": "left_delete"
+  },
+  {
+    "args": {
+      "characters": "<!-- Primary buttons -->\n"
+    },
+    "command": "insert"
+  },
+  {
+    "args": {
+      "characters": "<a class=\"button button-primary\" href=\"#\">Anchor button</a>\n"
+    },
+    "command": "insert"
+  },
+  {
+    "args": {
+      "characters": "<button class=\"button-primary\">Button element</button>\n"
+    },
+    "command": "insert"
+  },
+  {
+    "args": {
+      "characters": "<input class=\"button-primary\" type=\"submit\" value=\"submit input\">\n"
+    },
+    "command": "insert"
+  },
+  {
+    "args": {
+      "characters": "<input class=\"button-primary\" type=\"button\" value=\"button input\">"
+    },
+    "command": "insert"
+  }
+]

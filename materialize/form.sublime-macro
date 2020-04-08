@@ -1,0 +1,366 @@
+[
+    {
+        "args": {
+            "characters": "<!-- Materialize form example (more examples at https:\/\/materializecss.com\/text-inputs.html) -->\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<div class=\"row\">\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<form class=\"col s12\">\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<div class=\"row\">\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<div class=\"input-field col s6\">\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<input placeholder=\"Placeholder\" id=\"first_name\" type=\"text\" class=\"validate\">\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<label for=\"first_name\">First Name<\/label>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": null,
+        "command": "left_delete"
+    },
+    {
+        "args": {
+            "characters": "<\/div>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<div class=\"input-field col s6\">\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<input id=\"last_name\" type=\"text\" class=\"validate\">\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<label for=\"last_name\">Last Name<\/label>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": null,
+        "command": "left_delete"
+    },
+    {
+        "args": {
+            "characters": "<\/div>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": null,
+        "command": "left_delete"
+    },
+    {
+        "args": {
+            "characters": "<\/div>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<div class=\"row\">\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<div class=\"input-field col s12\">\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<input disabled value=\"I am not editable\" id=\"disabled\" type=\"text\" class=\"validate\">\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<label for=\"disabled\">Disabled<\/label>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": null,
+        "command": "left_delete"
+    },
+    {
+        "args": {
+            "characters": "<\/div>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": null,
+        "command": "left_delete"
+    },
+    {
+        "args": {
+            "characters": "<\/div>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<div class=\"row\">\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<div class=\"input-field col s12\">\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<input id=\"password\" type=\"password\" class=\"validate\">\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<label for=\"password\">Password<\/label>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": null,
+        "command": "left_delete"
+    },
+    {
+        "args": {
+            "characters": "<\/div>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": null,
+        "command": "left_delete"
+    },
+    {
+        "args": {
+            "characters": "<\/div>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<div class=\"row\">\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<div class=\"input-field col s12\">\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<input id=\"email\" type=\"email\" class=\"validate\">\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<label for=\"email\">Email<\/label>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": null,
+        "command": "left_delete"
+    },
+    {
+        "args": {
+            "characters": "<\/div>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": null,
+        "command": "left_delete"
+    },
+    {
+        "args": {
+            "characters": "<\/div>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<div class=\"row\">\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<div class=\"col s12\">\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "This is an inline input field:\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<div class=\"input-field inline\">\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<input id=\"email_inline\" type=\"email\" class=\"validate\">\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<label for=\"email_inline\">Email<\/label>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<span class=\"helper-text\" data-error=\"wrong\" data-success=\"right\">Helper text<\/span>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": null,
+        "command": "left_delete"
+    },
+    {
+        "args": {
+            "characters": "<\/div>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": null,
+        "command": "left_delete"
+    },
+    {
+        "args": {
+            "characters": "<\/div>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": null,
+        "command": "left_delete"
+    },
+    {
+        "args": {
+            "characters": "<\/div>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<div class=\"row\">\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<div class=\"col s12\">\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<button class=\"btn waves-effect waves-light\" type=\"submit\" name=\"action\">Submit"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<i class=\"material-icons right\">send<\/i>"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<\/button>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": null,
+        "command": "left_delete"
+    },
+    {
+        "args": {
+            "characters": "<\/div>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": null,
+        "command": "left_delete"
+    },
+    {
+        "args": {
+            "characters": "<\/div>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": null,
+        "command": "left_delete"
+    },
+    {
+        "args": {
+            "characters": "<\/form>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": null,
+        "command": "left_delete"
+    },
+    {
+        "args": {
+            "characters": "<\/div>"
+        },
+        "command": "insert"
+    }
+]

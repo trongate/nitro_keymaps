@@ -1,0 +1,82 @@
+[
+    {
+        "args": {
+            "characters": "<form>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<p>Enter your username and password then hit 'Submit'.<\/p>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<fieldset>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<label>Username<\/label>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<input type=\"text\" placeholder=\"Enter your username here\" name=\"username\">\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "\n<label>Password<\/label>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<input type=\"password\" placeholder=\"Enter your new password here\" name=\"pword\">\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "\n<button class=\"button\" type=\"submit\" value=\"Submit\">Submit<\/button>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<button class=\"button button-outline\" type=\"submit\" value=\"Cancel\">Cancel<\/button>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": null,
+        "command": "left_delete"
+    },
+    {
+        "args": {
+            "characters": "<\/fieldset>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": null,
+        "command": "left_delete"
+    },
+    {
+        "args": {
+            "characters": "<\/form>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<p><a href=\"#\">Forgotten your password?<\/a><\/p>"
+        },
+        "command": "insert"
+    }
+]

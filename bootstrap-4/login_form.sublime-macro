@@ -1,0 +1,114 @@
+[
+    {
+        "args": {
+            "characters": "<form>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<div class=\"form-group\">\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<label for=\"exampleInputEmail1\">Email address<\/label>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<input type=\"email\" class=\"form-control\" id=\"exampleInputEmail1\" aria-describedby=\"emailHelp\">\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<small id=\"emailHelp\" class=\"form-text text-muted\">We'll never share your email with anyone else.<\/small>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": null,
+        "command": "left_delete"
+    },
+    {
+        "args": {
+            "characters": "<\/div>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<div class=\"form-group\">\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<label for=\"exampleInputPassword1\">Password<\/label>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<input type=\"password\" class=\"form-control\" id=\"exampleInputPassword1\">\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": null,
+        "command": "left_delete"
+    },
+    {
+        "args": {
+            "characters": "<\/div>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<div class=\"form-group form-check\">\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<input type=\"checkbox\" class=\"form-check-input\" id=\"exampleCheck1\">\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<label class=\"form-check-label\" for=\"exampleCheck1\">Remember me<\/label>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": null,
+        "command": "left_delete"
+    },
+    {
+        "args": {
+            "characters": "<\/div>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<button type=\"submit\" class=\"btn btn-primary\">Submit<\/button>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": null,
+        "command": "left_delete"
+    },
+    {
+        "args": {
+            "characters": "<\/form>"
+        },
+        "command": "insert"
+    }
+]

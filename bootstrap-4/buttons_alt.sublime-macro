@@ -1,0 +1,76 @@
+[
+    {
+        "args": {
+            "characters": "<!-- Bootstrap 4 buttons - large buttons (ref: https:\/\/getbootstrap.com\/docs\/4.0\/components\/buttons) -->\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<button type=\"button\" class=\"btn btn-primary btn-lg\">Large button<\/button>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<button type=\"button\" class=\"btn btn-secondary btn-lg\">Large button<\/button>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": ""
+        },
+        "command": "insert"
+    },
+    {
+        "args": null,
+        "command": "left_delete"
+    },
+    {
+        "args": {
+            "characters": "\n\n<!-- Bootstrap 4 buttons - small buttons -->\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<button type=\"button\" class=\"btn btn-primary btn-sm\">Small button<\/button>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<button type=\"button\" class=\"btn btn-secondary btn-sm\">Small button<\/button>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": ""
+        },
+        "command": "insert"
+    },
+    {
+        "args": null,
+        "command": "left_delete"
+    },
+    {
+        "args": {
+            "characters": "\n\n<!-- Bootstrap 4 buttons - block buttons (full width) -->\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<button type=\"button\" class=\"btn btn-primary btn-lg btn-block\">Block button<\/button>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<button type=\"button\" class=\"btn btn-secondary btn-lg btn-block\">Block button<\/button>"
+        },
+        "command": "insert"
+    }
+]

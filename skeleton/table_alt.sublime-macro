@@ -1,0 +1,172 @@
+[
+  {
+    "args": {
+      "characters": "<!-- alternative table layout using SkeletonCSS -->\n"
+    },
+    "command": "insert"
+  },
+  {
+    "args": {
+      "characters": "<table class=\"u-full-width\">\n"
+    },
+    "command": "insert"
+  },
+  {
+    "args": {
+      "characters": "<thead>\n"
+    },
+    "command": "insert"
+  },
+  {
+    "args": {
+      "characters": "<tr>\n"
+    },
+    "command": "insert"
+  },
+  {
+    "args": {
+      "characters": "<th>Name</th>\n"
+    },
+    "command": "insert"
+  },
+  {
+    "args": {
+      "characters": "<th>Age</th>\n"
+    },
+    "command": "insert"
+  },
+  {
+    "args": {
+      "characters": "<th>Height</th>\n"
+    },
+    "command": "insert"
+  },
+  {
+    "args": {
+      "characters": "<th>Location</th>\n"
+    },
+    "command": "insert"
+  },
+  {
+    "args": null,
+    "command": "left_delete"
+  },
+  {
+    "args": {
+      "characters": "</tr>\n"
+    },
+    "command": "insert"
+  },
+  {
+    "args": null,
+    "command": "left_delete"
+  },
+  {
+    "args": {
+      "characters": "</thead>\n"
+    },
+    "command": "insert"
+  },
+  {
+    "args": {
+      "characters": "<tbody>\n"
+    },
+    "command": "insert"
+  },
+  {
+    "args": {
+      "characters": "<?php \n"
+    },
+    "command": "insert"
+  },
+  {
+    "args": {
+      "characters": "foreach ($rows as $row) {\n"
+    },
+    "command": "insert"
+  },
+  {
+    "args": null,
+    "command": "left_delete"
+  },
+  {
+    "args": {
+      "characters": "?>\n"
+    },
+    "command": "insert"
+  },
+  {
+    "args": {
+      "characters": "<tr>\n"
+    },
+    "command": "insert"
+  },
+  {
+    "args": {
+      "characters": "<td><?= $row->name ?></td>\n"
+    },
+    "command": "insert"
+  },
+  {
+    "args": {
+      "characters": "<td><?= $row->age ?></td>\n"
+    },
+    "command": "insert"
+  },
+  {
+    "args": {
+      "characters": "<td><?= $row->height ?></td>\n"
+    },
+    "command": "insert"
+  },
+  {
+    "args": {
+      "characters": "<td><?= $row->location ?></td>\n"
+    },
+    "command": "insert"
+  },
+  {
+    "args": null,
+    "command": "left_delete"
+  },
+  {
+    "args": {
+      "characters": "</tr>\n"
+    },
+    "command": "insert"
+  },
+  {
+    "args": null,
+    "command": "left_delete"
+  },
+  {
+    "args": {
+      "characters": "<?php\n"
+    },
+    "command": "insert"
+  },
+  {
+    "args": {
+      "characters": "}\n"
+    },
+    "command": "insert"
+  },
+  {
+    "args": {
+      "characters": "?>\n"
+    },
+    "command": "insert"
+  },
+  {
+    "args": {
+      "characters": "</tbody>\n"
+    },
+    "command": "insert"
+  },
+  {
+    "args": {
+      "characters": "</table>"
+    },
+    "command": "insert"
+  }
+]

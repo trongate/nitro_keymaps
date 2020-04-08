@@ -1,0 +1,190 @@
+[
+    {
+        "args": {
+            "characters": "<!-- Materialize Modal Trigger -->\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<a class=\"waves-effect waves-light btn modal-trigger\" href=\"#modal1\">Modal<\/a>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": null,
+        "command": "left_delete"
+    },
+    {
+        "args": {
+            "characters": "\n\n<!-- Modal Structure -->\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<div id=\"modal1\" class=\"modal\">\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<div class=\"modal-content\">\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<h4>Modal Header<\/h4>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<p>A bunch of text<\/p>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": null,
+        "command": "left_delete"
+    },
+    {
+        "args": {
+            "characters": "<\/div>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<div class=\"modal-footer\">\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<a href=\"#!\" class=\"modal-close waves-effect waves-green btn-flat\">Agree<\/a>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": null,
+        "command": "left_delete"
+    },
+    {
+        "args": {
+            "characters": "<\/div>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": null,
+        "command": "left_delete"
+    },
+    {
+        "args": {
+            "characters": "<\/div>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": ""
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": ""
+        },
+        "command": "insert"
+    },
+    {
+        "args": null,
+        "command": "left_delete"
+    },
+    {
+        "args": {
+            "characters": "\n\n<!-- initialization -->\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<script>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "document.addEventListener('DOMContentLoaded', function() {\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "var elems = document.querySelectorAll('.modal');"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "\nvar instances = M.Modal.init(elems, options);\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": null,
+        "command": "left_delete"
+    },
+    {
+        "args": {
+            "characters": "});\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "\/\/ Or with jQuery\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "$(document).ready(function(){\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "$('.modal').modal();\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": null,
+        "command": "left_delete"
+    },
+    {
+        "args": {
+            "characters": "});\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": null,
+        "command": "left_delete"
+    },
+    {
+        "args": {
+            "characters": "<\/script>"
+        },
+        "command": "insert"
+    }
+]

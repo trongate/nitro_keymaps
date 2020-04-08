@@ -1,0 +1,176 @@
+[
+    {
+        "args": {
+            "characters": "<!-- Defiant CSS alternative table - more examples at; https:\/\/defiantcss.com\/components\/display\/tables -->\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<table class=\"table\">\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<thead>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<tr>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<th>Item Name<\/th>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<th>Inventory<\/th>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<th>Item Price<\/th>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<th>Action<\/th>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": null,
+        "command": "left_delete"
+    },
+    {
+        "args": {
+            "characters": "<\/tr>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": null,
+        "command": "left_delete"
+    },
+    {
+        "args": {
+            "characters": "<\/thead>\n"
+        },
+        "command": "insert"
+    },
+  {
+    "args": null,
+    "command": "left_delete"
+  },
+  {
+    "args": {
+      "characters": "    <tbody>\n"
+    },
+    "command": "insert"
+  },
+  {
+    "args": {
+      "characters": "<?php \n"
+    },
+    "command": "insert"
+  },
+  {
+    "args": {
+      "characters": "foreach ($rows as $row) {\n"
+    },
+    "command": "insert"
+  },
+  {
+    "args": null,
+    "command": "left_delete"
+  },
+  {
+    "args": {
+      "characters": "?>\n"
+    },
+    "command": "insert"
+  },
+  {
+    "args": {
+      "characters": "<tr>\n"
+    },
+    "command": "insert"
+  },
+  {
+    "args": {
+      "characters": "<td data-label=\"Item Name\"><?= $item_name ?></td>\n"
+    },
+    "command": "insert"
+  },
+  {
+    "args": {
+      "characters": "<td data-label=\"Inventory\"><?= $row->inventory ?></td>\n"
+    },
+    "command": "insert"
+  },
+  {
+    "args": {
+      "characters": "<td data-label=\"Item Price\"><?= $row->item_price ?></td>\n"
+    },
+    "command": "insert"
+  },
+  {
+    "args": {
+      "characters": "<td data-label=\"Action\"><button class=\"btn btn-info\">View</button></td>\n"
+    },
+    "command": "insert"
+  },
+  {
+    "args": null,
+    "command": "left_delete"
+  },
+  {
+    "args": {
+      "characters": "</tr>\n"
+    },
+    "command": "insert"
+  },
+  {
+    "args": {
+      "characters": "<?php\n"
+    },
+    "command": "insert"
+  },
+  {
+    "args": {
+      "characters": "}\n"
+    },
+    "command": "insert"
+  },
+  {
+    "args": {
+      "characters": "?>\n"
+    },
+    "command": "insert"
+  },
+  {
+    "args": null,
+    "command": "left_delete"
+  },
+  {
+    "args": {
+      "characters": "</tbody>\n"
+    },
+    "command": "insert"
+  },
+  {
+    "args": {
+      "characters": "</table>"
+    },
+    "command": "insert"
+  }
+]

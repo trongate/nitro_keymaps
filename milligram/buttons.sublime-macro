@@ -1,0 +1,26 @@
+[
+    {
+        "args": {
+            "characters": "<!-- Milligram buttons examples -->\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<a class=\"button\" href=\"#\">Default Button<\/a>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<button class=\"button button-outline\">Outlined Button<\/button>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<input class=\"button button-clear\" type=\"submit\" value=\"Clear Button\">"
+        },
+        "command": "insert"
+    }
+]

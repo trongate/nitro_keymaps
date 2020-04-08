@@ -1,0 +1,60 @@
+[
+    {
+        "args": {
+            "characters": "<!-- Defiant login form -->\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<form class=\"form-vertical\"> "
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "\n\n<label for=\"username\">Username<\/label>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<input type=\"text\" name=\"username\" id=\"username\" placeholder=\"Enter your username here\">"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "\n\n<label for=\"password\">Password<\/label>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<input type=\"password\" name=\"pword\" id=\"pword\" placeholder=\"Enter your password here\">"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "\n\n<input type=\"submit\" name=\"submit\" value=\"Submit Button\" class=\"btn\">\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<button class=\"btn btn-secondary\">Cancel<\/button>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": null,
+        "command": "left_delete"
+    },
+    {
+        "args": {
+            "characters": "\n<\/form>"
+        },
+        "command": "insert"
+    }
+]

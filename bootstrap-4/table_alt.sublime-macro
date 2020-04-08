@@ -1,0 +1,178 @@
+[
+    {
+        "args": {
+            "characters": "<!-- alt table example using Bootstrap 4 - for more examples, visit https:\/\/getbootstrap.com\/docs\/4.0\/content\/tables\/ -->\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<table class=\"table\">\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<thead class=\"thead-dark\">\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<tr>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<th scope=\"col\">#<\/th>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<th scope=\"col\">First<\/th>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<th scope=\"col\">Last<\/th>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<th scope=\"col\">Handle<\/th>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": null,
+        "command": "left_delete"
+    },
+    {
+        "args": {
+            "characters": "<\/tr>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": null,
+        "command": "left_delete"
+    },
+    {
+        "args": {
+            "characters": "<\/thead>\n"
+        },
+        "command": "insert"
+    },
+  {
+    "args": {
+      "characters": "<tbody>\n"
+    },
+    "command": "insert"
+  },
+  {
+    "args": {
+      "characters": "<?php \n"
+    },
+    "command": "insert"
+  },
+  {
+    "args": {
+      "characters": "$count = 0;\nforeach ($rows as $row) {\n"
+    },
+    "command": "insert"
+  },
+  {
+    "args": {
+      "characters": "$count++;\n"
+    },
+    "command": "insert"
+  },
+  {
+    "args": {
+      "characters": "?>\n"
+    },
+    "command": "insert"
+  },
+  {
+    "args": {
+      "characters": "<tr>\n"
+    },
+    "command": "insert"
+  },
+  {
+    "args": {
+      "characters": "<th scope=\"row\"><?= $count ?></th>\n"
+    },
+    "command": "insert"
+  },
+  {
+    "args": {
+      "characters": "<td><?= $row->first ?></td>\n"
+    },
+    "command": "insert"
+  },
+  {
+    "args": {
+      "characters": "<td><?= $row->last ?></td>\n"
+    },
+    "command": "insert"
+  },
+  {
+    "args": {
+      "characters": "<td><?= $row->handle ?></td>\n"
+    },
+    "command": "insert"
+  },
+  {
+    "args": null,
+    "command": "left_delete"
+  },
+  {
+    "args": {
+      "characters": "</tr>\n"
+    },
+    "command": "insert"
+  },
+  {
+    "args": null,
+    "command": "left_delete"
+  },
+  {
+    "args": {
+      "characters": "<?php\n"
+    },
+    "command": "insert"
+  },
+  {
+    "args": {
+      "characters": "}\n"
+    },
+    "command": "insert"
+  },
+  {
+    "args": {
+      "characters": "?>\n"
+    },
+    "command": "insert"
+  },
+  {
+    "args": null,
+    "command": "left_delete"
+  },
+  {
+    "args": {
+      "characters": "</tbody>\n"
+    },
+    "command": "insert"
+  },
+  {
+    "args": {
+      "characters": "</table>"
+    },
+    "command": "insert"
+  }
+]

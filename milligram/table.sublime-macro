@@ -1,0 +1,176 @@
+[
+    {
+        "args": {
+            "characters": "<!-- table example using Milligram -->\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<table>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<thead>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<tr>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<th>Name<\/th>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<th>Age<\/th>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<th>Height<\/th>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<th>Location<\/th>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": null,
+        "command": "left_delete"
+    },
+    {
+        "args": {
+            "characters": "<\/tr>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": null,
+        "command": "left_delete"
+    },
+    {
+        "args": {
+            "characters": "<\/thead>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<tbody>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<tr>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<td>Stephen Curry<\/td>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<td>27<\/td>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<td>1,91<\/td>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<td>Akron, OH<\/td>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": null,
+        "command": "left_delete"
+    },
+    {
+        "args": {
+            "characters": "<\/tr>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<tr>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<td>Klay Thompson<\/td>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<td>25<\/td>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<td>2,01<\/td>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<td>Los Angeles, CA<\/td>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": null,
+        "command": "left_delete"
+    },
+    {
+        "args": {
+            "characters": "<\/tr>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": null,
+        "command": "left_delete"
+    },
+    {
+        "args": {
+            "characters": "<\/tbody>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": null,
+        "command": "left_delete"
+    },
+    {
+        "args": {
+            "characters": "<\/table>"
+        },
+        "command": "insert"
+    }
+]

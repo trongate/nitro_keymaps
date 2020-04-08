@@ -1,0 +1,76 @@
+[
+    {
+        "args": {
+            "characters": "<!-- Defiant Modal (requires javascript - see https:\/\/defiantcss.com\/components\/display\/modals for details) -->\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<button class=\"btn btn-primary btn-modal\">Show modal<\/button>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<div class=\"modal\" id=\"modal\">\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<div class=\"modal-content\">\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<a href=\"#modals\" class=\"modal-close\">&times;<\/a>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<h2 class=\"modal-headline\">Hello World<\/h2>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<p>This is a cool modal.<\/p>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<button class=\"btn btn-info\">Save<\/button>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<button class=\"btn btn-outline-danger dismiss\">Dismiss<\/button>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": null,
+        "command": "left_delete"
+    },
+    {
+        "args": {
+            "characters": "<\/div>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": null,
+        "command": "left_delete"
+    },
+    {
+        "args": {
+            "characters": "<\/div>"
+        },
+        "command": "insert"
+    }
+]

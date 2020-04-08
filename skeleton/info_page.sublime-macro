@@ -1,0 +1,204 @@
+[
+  {
+    "args": {
+      "characters": "<!-- simple info page layout in SkeletonCSS -->\n"
+    },
+    "command": "insert"
+  },
+  {
+    "args": {
+      "characters": "<div class=\"container\">\n"
+    },
+    "command": "insert"
+  },
+  {
+    "args": {
+      "characters": "<div class=\"row\">\n"
+    },
+    "command": "insert"
+  },
+  {
+    "args": {
+      "characters": "<div class=\"ten columns offset-by-one\">\n"
+    },
+    "command": "insert"
+  },
+  {
+    "args": {
+      "characters": "<h1>Headline</h1>\n"
+    },
+    "command": "insert"
+  },
+  {
+    "args": {
+      "characters": "<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus sapiente fugiat ut iure, ducimus. At suscipit quod in omnis, illo, excepturi assumenda officiis dicta porro officia dolor alias veritatis nulla?</p>\n"
+    },
+    "command": "insert"
+  },
+  {
+    "args": null,
+    "command": "left_delete"
+  },
+  {
+    "args": {
+      "characters": "</div>\n"
+    },
+    "command": "insert"
+  },
+  {
+    "args": {
+      "characters": "<div class=\"eleven columns\">\n"
+    },
+    "command": "insert"
+  },
+  {
+    "args": {
+      "characters": "Eleven\n"
+    },
+    "command": "insert"
+  },
+  {
+    "args": null,
+    "command": "left_delete"
+  },
+  {
+    "args": {
+      "characters": "</div>\n"
+    },
+    "command": "insert"
+  },
+  {
+    "args": null,
+    "command": "left_delete"
+  },
+  {
+    "args": {
+      "characters": "</div>\n"
+    },
+    "command": "insert"
+  },
+  {
+    "args": null,
+    "command": "left_delete"
+  },
+  {
+    "args": {
+      "characters": "</div>\n"
+    },
+    "command": "insert"
+  },
+  {
+    "args": {
+      "characters": ""
+    },
+    "command": "insert"
+  },
+  {
+    "args": {
+      "characters": "<!--\n"
+    },
+    "command": "insert"
+  },
+  {
+    "args": {
+      "characters": ""
+    },
+    "command": "insert"
+  },
+  {
+    "args": {
+      "characters": "Note: columns can be nested, but it's not recommended since Skeleton's grid has %-based gutters, meaning a nested grid results in variable with gutters (which can end up being *really* small on certain browser/device sizes)\n"
+    },
+    "command": "insert"
+  },
+  {
+    "args": {
+      "characters": ""
+    },
+    "command": "insert"
+  },
+  {
+    "args": {
+      "characters": "OFFSETS:\n"
+    },
+    "command": "insert"
+  },
+  {
+    "args": {
+      "characters": "        .offset-by-one\n"
+    },
+    "command": "insert"
+  },
+  {
+    "args": {
+      "characters": ".offset-by-eleven\n"
+    },
+    "command": "insert"
+  },
+  {
+    "args": {
+      "characters": ".offset-by-one-third\n"
+    },
+    "command": "insert"
+  },
+  {
+    "args": {
+      "characters": ".offset-by-two-thirds\n"
+    },
+    "command": "insert"
+  },
+  {
+    "args": {
+      "characters": ".offset-by-half\n"
+    },
+    "command": "insert"
+  },
+  {
+    "args": {
+      "characters": ""
+    },
+    "command": "insert"
+  },
+  {
+    "args": null,
+    "command": "left_delete"
+  },
+  {
+    "args": null,
+    "command": "left_delete"
+  },
+  {
+    "args": null,
+    "command": "left_delete"
+  },
+  {
+    "args": null,
+    "command": "left_delete"
+  },
+  {
+    "args": null,
+    "command": "left_delete"
+  },
+  {
+    "args": null,
+    "command": "left_delete"
+  },
+  {
+    "args": null,
+    "command": "left_delete"
+  },
+  {
+    "args": null,
+    "command": "left_delete"
+  },
+  {
+    "args": null,
+    "command": "left_delete"
+  },
+  {
+    "args": {
+      "characters": "-->"
+    },
+    "command": "insert"
+  }
+]

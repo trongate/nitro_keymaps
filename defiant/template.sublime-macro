@@ -1,0 +1,694 @@
+[
+    {
+        "args": {
+            "characters": "<!DOCTYPE html>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<html lang=\"en\">\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<head>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<meta charset=\"UTF-8\">\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<meta http-equiv=\"X-UA-Compatible\" content=\"ie=edge\">\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<title>Defiant CSS Starter Template<\/title>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<link href=\"https:\/\/fonts.googleapis.com\/css?family=Montserrat&amp;_cacheOverride=1553632958093\" rel=\"stylesheet\">\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<link href=\"https:\/\/fonts.googleapis.com\/icon?family=Material+Icons&amp;_cacheOverride=1553632958093\" rel=\"stylesheet\">\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<link rel=\"stylesheet\" href=\""
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "/css\/defiant.css\">\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<link rel=\"stylesheet\" href=\""
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "/css\/starter.css\">\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": null,
+        "command": "left_delete"
+    },
+    {
+        "args": {
+            "characters": "<\/head>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<body>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<!-- Navbar -->\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<nav class=\"navbar\">\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<a href=\"https:\/\/defiantcss.com\/examples\/starter\" class=\"logo\">Logo<\/a>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<a href=\"https:\/\/defiantcss.com\/examples\/starter\">Home<\/a>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<a href=\"#\" class=\"navbar-link\">About<\/a>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<div class=\"dropdown\">\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<button class=\"navbar-link dropdown-toggle\">Projects<\/button>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<div class=\"dropdown-menu\">\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<a href=\"#\" class=\"dropdown-menu-link\">Project 1<\/a>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<a href=\"#\" class=\"dropdown-menu-link\">Project 2<\/a>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<a href=\"#\" class=\"dropdown-menu-link\">Project 3<\/a>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": null,
+        "command": "left_delete"
+    },
+    {
+        "args": {
+            "characters": "<\/div>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": null,
+        "command": "left_delete"
+    },
+    {
+        "args": {
+            "characters": "<\/div>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<div class=\"dropdown\">\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<button class=\"navbar-link dropdown-toggle\">Services<\/button>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<div class=\"dropdown-menu\">\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<a href=\"#\" class=\"dropdown-menu-link\">Service 1<\/a>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<a href=\"#\" class=\"dropdown-menu-link\">Service 2<\/a>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<a href=\"#\" class=\"dropdown-menu-link\">Service 3<\/a>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": null,
+        "command": "left_delete"
+    },
+    {
+        "args": {
+            "characters": "<\/div>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": null,
+        "command": "left_delete"
+    },
+    {
+        "args": {
+            "characters": "<\/div>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<a href=\"#\" class=\"navbar-link\">Contact<\/a>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<i class=\"material-icons nav-toggle\">menu<\/i>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": null,
+        "command": "left_delete"
+    },
+    {
+        "args": {
+            "characters": "<\/nav>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<!-- Mobile Navigation -->\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<nav class=\"side-nav\">\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<a href=\"https:\/\/defiantcss.com\/\" class=\"logo\">Logo<\/a>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<a href=\"https:\/\/defiantcss.com\/\" class=\"side-nav-link\">Home<\/a>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<a href=\"#\" class=\"side-nav-link\">About<\/a>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<button class=\"side-nav-link submenu-toggle\">Projects<i class=\"material-icons\">chevron_right<\/i><\/button>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<div class=\"submenu\">\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<a href=\"#\" class=\"submenu-link\">Project 1<\/a>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<a href=\"#\" class=\"submenu-link\">Project 2<\/a>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<a href=\"#\" class=\"submenu-link\">Project 3<\/a>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": null,
+        "command": "left_delete"
+    },
+    {
+        "args": {
+            "characters": "<\/div>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<button class=\"side-nav-link submenu-toggle\">Services<i class=\"material-icons\">chevron_right<\/i><\/button>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<div class=\"submenu\">\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<a href=\"#\" class=\"submenu-link\">Service 1<\/a>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<a href=\"#\" class=\"submenu-link\">Service 2<\/a>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<a href=\"#\" class=\"submenu-link\">Service 3<\/a>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": null,
+        "command": "left_delete"
+    },
+    {
+        "args": {
+            "characters": "<\/div>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<a href=\"#\" class=\"side-nav-link\">Contact<\/a>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": null,
+        "command": "left_delete"
+    },
+    {
+        "args": {
+            "characters": "<\/nav>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": ""
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<!-- Main Content -->\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<main class=\"main\">\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<!-- Hero class -->\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<section class=\"hero\">\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<h1>Starter Template For Defiant CSS<\/h1>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<h3>Some marketing spiel about how cool your product is...<\/h3>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<a href=\"https:\/\/defiantcss.com\/downloads\/defiant_starter.zip\" class=\"btn btn-success btn-large\">Download Starter Template<\/a>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore molestias maxime deleniti culpa iure, blanditiis voluptate neque distinctio vero ab esse, porro possimus velit a fuga magni commodi! Est, cumque!<\/p>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": null,
+        "command": "left_delete"
+    },
+    {
+        "args": {
+            "characters": "<\/section>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<!-- Info Class -->\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<section class=\"info\">\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<div class=\"card\">\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<i class=\"material-icons\">battery_charging_full<\/i>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<div class=\"card-body\">\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<div class=\"card-heading\">Heading<\/div>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eius, dicta!<\/p>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<a href=\"#\" class=\"btn btn-primary\">View Details<\/a>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": null,
+        "command": "left_delete"
+    },
+    {
+        "args": {
+            "characters": "<\/div>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": null,
+        "command": "left_delete"
+    },
+    {
+        "args": {
+            "characters": "<\/div>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<div class=\"card\">\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<i class=\"material-icons\">account_balance<\/i>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<div class=\"card-body\">\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<div class=\"card-heading\">Heading<\/div>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eius, dicta!<\/p>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<a href=\"#\" class=\"btn btn-primary\">View Details<\/a>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": null,
+        "command": "left_delete"
+    },
+    {
+        "args": {
+            "characters": "<\/div>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": null,
+        "command": "left_delete"
+    },
+    {
+        "args": {
+            "characters": "<\/div>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<div class=\"card\">\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<i class=\"material-icons\">security<\/i>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<div class=\"card-body\">\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<div class=\"card-heading\">Heading<\/div>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eius, dicta!<\/p>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<a href=\"#\" class=\"btn btn-primary\">View Details<\/a>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": null,
+        "command": "left_delete"
+    },
+    {
+        "args": {
+            "characters": "<\/div>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": null,
+        "command": "left_delete"
+    },
+    {
+        "args": {
+            "characters": "<\/div>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": null,
+        "command": "left_delete"
+    },
+    {
+        "args": {
+            "characters": "<\/section>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": null,
+        "command": "left_delete"
+    },
+    {
+        "args": {
+            "characters": "<\/main>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<!-- Footer -->\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<footer class=\"footer\">\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<p>Copyright &copy; <a href=\"https:\/\/martynmasson.com\" target=\"_blank\">Martyn Masson<\/a><\/p>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": null,
+        "command": "left_delete"
+    },
+    {
+        "args": {
+            "characters": "<\/footer>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": null,
+        "command": "left_delete"
+    },
+    {
+        "args": {
+            "characters": "<\/body>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<\/html>"
+        },
+        "command": "insert"
+    }
+]

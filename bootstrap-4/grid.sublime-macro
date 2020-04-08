@@ -1,0 +1,330 @@
+[
+    {
+        "args": {
+            "characters": "<!-- Bootstrap 4 grid :  for full details visit https:\/\/getbootstrap.com\/docs\/4.4\/layout\/grid\/ -->\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<!-- Bootstrap 4.0 Grid System (ref: https:\/\/getbootstrap.com\/docs\/4.0\/layout\/grid\/)  -->\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<!-- NOTE: screen size indicators can be; xs, sm, md, lg, xl; -->\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<!-- equal width columns that stack on a device with a small screen -->\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<div class=\"container\">\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<div class=\"row\">\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<div class=\"col-sm\">\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "One of three columns\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": null,
+        "command": "left_delete"
+    },
+    {
+        "args": {
+            "characters": "<\/div>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<div class=\"col-sm\">\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "One of three columns\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": null,
+        "command": "left_delete"
+    },
+    {
+        "args": {
+            "characters": "<\/div>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<div class=\"col-sm\">\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "One of three columns\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": null,
+        "command": "left_delete"
+    },
+    {
+        "args": {
+            "characters": "<\/div>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": null,
+        "command": "left_delete"
+    },
+    {
+        "args": {
+            "characters": "<\/div>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": null,
+        "command": "left_delete"
+    },
+    {
+        "args": {
+            "characters": "<\/div>\n\n\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": null,
+        "command": "left_delete"
+    },
+    {
+        "args": {
+            "characters": "<!-- equal width columns -->\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<div class=\"container\">\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<div class=\"row\">\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<div class=\"col\">"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "one third width"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<\/div>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<div class=\"col\">"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "one third width"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<\/div>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<div class=\"col\">"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "one third width"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<\/div>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": null,
+        "command": "left_delete"
+    },
+    {
+        "args": {
+            "characters": "<\/div>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<div class=\"row\">\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<div class=\"col\">"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "half width"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<\/div>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<div class=\"col\">"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "half width"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<\/div>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": null,
+        "command": "left_delete"
+    },
+    {
+        "args": {
+            "characters": "<\/div>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": null,
+        "command": "left_delete"
+    },
+    {
+        "args": {
+            "characters": "<\/div>\n\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<!-- offsets -->\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<div class=\"row\">\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<div class=\"col-sm-5 col-md-6\">.col-sm-5 .col-md-6<\/div>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": "<div class=\"col-sm-5 offset-sm-2 col-md-6 offset-md-0\">.col-sm-5 .offset-sm-2 .col-md-6 .offset-md-0<\/div>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": null,
+        "command": "left_delete"
+    },
+    {
+        "args": {
+            "characters": "<\/div>\n"
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": ""
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": ""
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": ""
+        },
+        "command": "insert"
+    },
+    {
+        "args": {
+            "characters": ""
+        },
+        "command": "insert"
+    }
+]
