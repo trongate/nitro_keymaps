@@ -1,0 +1,70 @@
+<p>PLEASE NOTE:  The 'super' key can usually be found on the bottom-left of your keyboard, next to the Alt key, and usually has a Windows logo on it. It is sometimes called the Windows key or system key.  
+If you have an Apple keyboard, you will have a ⌘ (Command) key instead of the Windows key, while Chromebooks have a magnifying glass instead.</p>
+
+<p>If you would you like to help to integrate more front-end (CSS) frameworks with Nitro, please get in touch via the contact form at Speed Coding Academy (www.SpeedCodingAcademy.com). You'll be given credit by name and you'll be doing something cool for the web development community.</p>
+
+
+<div style="display: flex; flex-direction: row; justify-content: space-between;">
+    <div>
+        <h5>PRIMARY SHORTCUTS</h5>
+        <table class="tbl">
+            <tr>
+                <td>Ctrl + Alt + Super + <span class="highlight">B</span></td>
+                <td><span class="highlight">B</span>uttons</td>
+            </tr>
+            <tr>
+                <td>Ctrl + Alt + Super + <span class="highlight">C</span></td>
+                <td><span class="highlight">C</span>ontact Form</td>
+            </tr>
+            <tr>
+                <td>Ctrl + Alt + Super + <span class="highlight">D</span></td>
+                <td><span class="highlight">D</span>ownload URL</td>
+            </tr>
+            <tr>
+                <td>Ctrl + Alt + Super + <span class="highlight">F</span></td>
+                <td><span class="highlight">F</span>orm</td>
+            </tr>
+            <tr>
+                <td>Ctrl + Alt + Super + <span class="highlight">G</span></td>
+                <td><span class="highlight">G</span>rid</td>
+            </tr>
+            <tr>
+                <td>Ctrl + Alt + Super + <span class="highlight">I</span></td>
+                <td><span class="highlight">I</span>nfo Page</td>
+            </tr>
+            <tr>
+                <td>Ctrl + Alt + Super + <span class="highlight">L</span></td>
+                <td><span class="highlight">L</span>ogin Form</td>
+            </tr>
+            <tr>
+                <td>Ctrl + Alt + Super + <span class="highlight">M</span></td>
+                <td><span class="highlight">M</span>odal</td>
+            </tr>
+            <tr>
+                <td>Ctrl + Alt + Super + <span class="highlight">P</span></td>
+                <td><span class="highlight">P</span>assword Form</td>
+            </tr>
+            <tr>
+                <td>Ctrl + Alt + Super + <span class="highlight">T</span></td>
+                <td><span class="highlight">T</span>able</td>
+            </tr>
+        </table>
+    </div>
+    <div>
+        <h5>ALTERNATIVES</h5>
+        <table class="tbl">
+            <tr>
+                <td>Ctrl + Alt + Super + <span class="highlight">A</span></td>
+                <td>T<span class="highlight">A</span>ble</td>
+            </tr>
+            <tr>
+                <td>Ctrl + Alt + Super + <span class="highlight">E</span></td>
+                <td>T<span class="highlight">E</span>mplate</td>
+            </tr>
+            <tr>
+                <td>Ctrl + Alt + Super + <span class="highlight">U</span></td>
+                <td>B<span class="highlight">U</span>ttons</td>
+            </tr>
+        </table>
+    </div>
+</div>
