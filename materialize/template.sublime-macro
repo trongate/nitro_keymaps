@@ -49,18 +49,6 @@
     },
     {
         "args": {
-            "characters": "<!-- Compiled and minified JavaScript -->\n"
-        },
-        "command": "insert"
-    },
-    {
-        "args": {
-            "characters": "<script src=\"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/materialize\/1.0.0\/js\/materialize.min.js\"><\/script>\n"
-        },
-        "command": "insert"
-    },
-    {
-        "args": {
             "characters": "<!--Let browser know website is optimized for mobile-->\n"
         },
         "command": "insert"
@@ -139,7 +127,7 @@
     },
     {
         "args": {
-            "characters": "<script type=\"text\/javascript\" src=\"js\/materialize.min.js\"><\/script>\n"
+            "characters": "<script src=\"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/materialize\/1.0.0\/js\/materialize.min.js\"><\/script>\n"
         },
         "command": "insert"
     },
